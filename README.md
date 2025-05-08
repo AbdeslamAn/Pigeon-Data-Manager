@@ -1,6 +1,8 @@
 # Fly Higher
 
-### 🇬🇧 English
+###  English / Deutsch / Français
+
+###  English 
 
 ```markdown
 # Web Application for Pigeon Data Management
@@ -51,7 +53,7 @@ Ziel dieses Projekts war es, eine strukturierte, benutzerfreundliche Lösung zur
 
 ---
 
-### 🇫🇷 Français
+###  Français
 
 ```markdown
 # Application Web de Gestion des Données des Pigeons
