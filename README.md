@@ -1,7 +1,7 @@
 <h1>Fly Higher</h1>
 
 ###  English / Deutsch / Français
-  English 
+
 ```markdown
 # Web Application for Pigeon Data Management
 
