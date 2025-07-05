@@ -156,11 +156,7 @@ Conçue pour les éleveurs qui souhaitent conserver des enregistrements détaill
 - 📤 Exportation des données en Excel / PDF  
 - 🧠 Intégration d’un lecteur de bagues ou de puces NFC
 
-## 🚀 Instructions d’Installation
 
-1. Cloner le dépôt  
-   ```bash
-   git clone https://github.com/your-username/pigeon-management-app.git
 
 
 
