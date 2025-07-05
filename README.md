@@ -2,6 +2,8 @@
 
 > 🌍 [English](#-english) · [Deutsch](#-deutsch) · [Français](#-français)
 
+## 🇬🇧 English
+
 # 🕊️ Pigeon Data Management Web Application
 
 A web application for efficient management and storage of pigeon information.  
@@ -51,7 +53,8 @@ Designed for breeders who need to keep detailed records of their pigeons' charac
 - 🧠 Integration with ring scanner or NFC chip readers
 
 
-## <h4 id="Deutsch">Deutsch :</h4>
+
+## 🇩🇪 Deutsch
 # 🕊️ Webanwendung zur Verwaltung von Taubendaten
 
 Eine Webanwendung zur effizienten Verwaltung und Speicherung von Taubeninformationen.  
@@ -102,7 +105,7 @@ Die App wurde speziell für Züchter entwickelt, die detaillierte Aufzeichnungen
 - 🧠 Integration mit Ring-Scannern oder NFC-Technologie
 
 
-## <h4 id="Français">Français :</h4>
+## 🇫🇷 Français
 
 # 🕊️ Application Web de Gestion des Données de Pigeons
 
