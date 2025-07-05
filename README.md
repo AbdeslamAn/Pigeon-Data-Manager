@@ -1,6 +1,6 @@
 <h1>Fly Higher</h1>
 
-###  <a href="English"> English </a>/ <a href="Deutsch"> Deutsch </a> / <a href="Français"> Français </a>
+> 🌍 [English](#-english) · [Deutsch](#-deutsch) · [Français](#-français)
 
 # 🕊️ Pigeon Data Management Web Application
 
