@@ -1,6 +1,6 @@
 <h1>Fly Higher</h1>
 
-> 🌍 [English](#-english) · [Deutsch](#-deutsch) · [Français](#-français)
+<center> <strong> > 🌍 [English](#-english) · [Deutsch](#-deutsch) · [Français](#-français)</strong></center> 
 
 ## 🇬🇧 English
 
