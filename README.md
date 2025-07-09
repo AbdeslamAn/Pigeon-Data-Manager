@@ -1,7 +1,7 @@
 <h1 align="center">Fly Higher</h1>
-<p align="center">
+
  >  🌍 [English](#-english) · [Deutsch](#-deutsch) · [Français](#-français)
-</p>
+
 ## 🇬🇧 English
 
 # 🕊️ Pigeon Data Management Web Application
